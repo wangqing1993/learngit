@@ -3,3 +3,4 @@ xxxxx
 sdddd
 sssssss
 eeeeeee
+Creating a new branch is quick & simple.
